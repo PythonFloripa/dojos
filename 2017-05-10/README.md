@@ -13,6 +13,9 @@ Implementar o [Algoritmo de Luhn](https://en.wikipedia.org/wiki/Luhn_algorithm) 
 
 Número de participantes: 15
 
+## Local
+UFSC - INE
+
 ##Prós
 * Iniciativa
 * Pontos de vista diferentes
