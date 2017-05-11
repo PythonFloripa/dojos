@@ -16,7 +16,7 @@ Número de participantes: 15
 ## Local
 UFSC - INE
 
-##Prós
+## Prós
 * Iniciativa
 * Pontos de vista diferentes
 * Participação
@@ -26,11 +26,11 @@ UFSC - INE
 * Integração
 * Algoritmo de Luhn
 
-##Contras
+## Contras
 * Esquema de cores do terminal ruim
 * Teclado fora do padrão
 * Faltou coffee
 
-##Comentários e Sugestões
+## Comentários e Sugestões
 * Buscar explicar sempre os estados do semáforo
 * Melhorar o fluxo de escolha dos problemas
