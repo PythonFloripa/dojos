@@ -16,3 +16,4 @@ Em cada pasta encontram-se:
 ## Dojos realizados
 
 * [2017-05-10](2017-05-10): Algoritmo de Luhn
+* [2017-06-10](2017-06-10): Conversor de inteiros para texto por extenso

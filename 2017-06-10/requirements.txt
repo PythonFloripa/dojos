@@ -1,0 +1,4 @@
+Python==3.5
+wxPython
+dose
+unittest
